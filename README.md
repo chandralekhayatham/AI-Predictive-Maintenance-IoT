@@ -122,19 +122,17 @@ The simulator is included so this project works without hardware or a downloaded
 4. Add model versioning and data-drift checks.
 5. Deploy only after validating with domain experts and real labelled equipment data.
 
-   ## 📸 Screenshots
+## 📸 Screenshots
 
-### System Dashboard
+### 1. Dashboard Overview
 
-![System Dashboard](screenshots/dashboard.png)
+![Dashboard Overview](screenshots/dashboard-overview.png)
 
-### Predictive Maintenance Results
+### 2. High-Risk Prediction
 
-![Prediction Results](screenshots/prediction-results.png)
+![High-Risk Prediction](screenshots/high-risk-prediction.png)
 
-### Anomaly Detection
+### 3. Sensor Data Preview
 
-![Anomaly Detection](screenshots/anomaly-detection.png)
-
-
+![Sensor Data Preview](screenshots/sensor-data-preview.png)
 
