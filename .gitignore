@@ -1,0 +1,22 @@
+# Python
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Generated model file
+
+models/*.joblib
+
+# Exclude generated test predictions only
+
+outputs/*.csv
+
+# Editor and operating system
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
