@@ -122,5 +122,19 @@ The simulator is included so this project works without hardware or a downloaded
 4. Add model versioning and data-drift checks.
 5. Deploy only after validating with domain experts and real labelled equipment data.
 
-## Author / proof of work
-Add your name, repository URL, screenshots and project demo link here before publishing. Capture the dataset preview, training metrics, confusion matrix, feature importance, CLI prediction, dashboard and GitHub repository page.
+   ## 📸 Screenshots
+
+### System Dashboard
+
+![System Dashboard](screenshots/dashboard.png)
+
+### Predictive Maintenance Results
+
+![Prediction Results](screenshots/prediction-results.png)
+
+### Anomaly Detection
+
+![Anomaly Detection](screenshots/anomaly-detection.png)
+
+
+
